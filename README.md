@@ -1,6 +1,6 @@
 # sequelize
 
-# 리눅수(우분투) 환경에서 porstgre 셋팅 순서
+# 리눅스(우분투) 환경에서 porstgre 셋팅 순서
 ```
 # sudo apt-get install postgresql postgresql-contrib // postgresql 설치
 # sudo -u postgres psql // psql 접속
