@@ -21,4 +21,7 @@
 # npm i express morgan sequelize sequelize-cli postgres pg
 # npm i -D nodemon
 # npx sequelize init
+
+config/config.json 파일에 데이터베이스 정보 입력
+packges.json 파일에 "scripts"에 "start" : "nodemon app" 추가
 ```
